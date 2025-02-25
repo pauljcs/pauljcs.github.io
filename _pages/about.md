@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: eye_eeg.pdf
+  image: eye_eeg.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -25,4 +25,4 @@ latest_posts:
 
 Hey! I'm Paul and I (*try to*) do science.
 
-I'm currently doing my PhD in cognitive neuroscience at the University of Münster in Germany under the supervision of [Niko Busch](https://www.uni-muenster.de/PsyIFP/AEBusch/Mitarbeiter/busch.shtml). My work focusses on the influence and interactions of different biological oscillations - especially brain, eye and breathing - with visual memory. I try to understand how differences in brain states impact subsequent processing. I also love to geek out and learn more about methods. Whilst I'm not sitting at the desk or in the lab I teach classes about decision making and EEG methodology.
+I'm currently doing my PhD in cognitive neuroscience at the University of Münster in Germany under the supervision of [Niko Busch](https://www.uni-muenster.de/PsyIFP/AEBusch/Mitarbeiter/busch.shtml). My work focusses on the influence and interactions of different biological oscillations - especially brain, eye and breathing - with visual memory. I try to understand how differences in brain states impact subsequent processing. I also love to geek out and learn more about methods. When I'm not sitting at the desk or in the lab I teach classes about decision making and EEG methodology.
