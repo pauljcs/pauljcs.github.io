@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
+#### Summersemester 25
+* M.Sc. Cognitive Electrophysiology
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Wintersemester 24/25
+* B.Sc. Experimental Psychology and Cognitive Neuroscience: Decision Making
 
-Organize your courses by years, topics, or universities, however you like!
+#### Summersemester 24
+* B.Sc. Experimental Psychology and Cognitive Neuroscience: Decision Making
+
+#### Wintersemester 23/24
+* B.Sc. Experimental Psychology and Cognitive Neuroscience: Decision Making
+
+#### Wintersemester 22/23
+* B.Sc. Introductory Research Class

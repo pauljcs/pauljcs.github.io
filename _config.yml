@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: cognition, brain and stuff # the website title (if blank, full name will be used instead)
+title: cognition brain and stuff # the website title (if blank, full name will be used instead)
 first_name: Paul
 middle_name: J.C.
 last_name: Smith
@@ -340,6 +340,10 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - blog.md
+    - projects.md
+    - profiles.md
+    - repositories.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
