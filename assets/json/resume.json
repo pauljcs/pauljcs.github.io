@@ -26,7 +26,7 @@
       "name": "University of Muenster, Department of Psychology, Cognitive Neuroscience",
       "position": "Research Associate",
       "url": "https://www.uni-muenster.de/PsyIFP/AEBusch/Mitarbeiter/smith.html",
-      "startDate": "2022-10-01",
+      "startDate": "2022-10",
       "endDate": "Present",
       "summary": "Research on visual memory performance, EEG oscillations as well as eye-tracking and breathing. Teaching in the psychology B.Sc. and M.Sc. program focussed on decision making and EEG methods.",
       "highlights": ["Alpha ocsillations, iconic memory, pupil dilation"]
@@ -34,48 +34,48 @@
     {
       "name": "University of Muenster, Department of Psychology, Cognitive Neuroscience",
       "position": "Research Assistant",
-      "startDate": "2021-08-01",
-      "endDate": "2022-06-30",
+      "startDate": "2021-08",
+      "endDate": "2022-06",
       "summary": "Conducting EEG scans and assisting in the EEGManyPipelines project.",
       "highlights": ["Replication"]
     },
     {
       "name": "University Hospital Muenster, Institute for Medical Neuroscience and Systems Neuroscience",
       "position": "Intern",
-      "startDate": "2021-05-01",
-      "endDate": "2021-09-30",
+      "startDate": "2021-05",
+      "endDate": "2021-09",
       "summary": "Conducting EEG scans and assisting in EEG studies.",
       "highlights": ["EEG"]
     },
     {
       "name": "19th German Bundestag, MDB Kordula Schulz-Asche",
       "position": "Intern",
-      "startDate": "2019-09-01",
-      "endDate": "2019-10-31",
+      "startDate": "2019-09",
+      "endDate": "2019-10",
       "summary": "Assisting healthcare policy develoment and research on the modernization of the healthcare sector.",
       "highlights": ["Policy"]
     },
     {
       "name": "University of Muenster, Department of Psychology, Organisation and Business Psychology",
       "position": "Research Assistant",
-      "startDate": "2019-04-01",
-      "endDate": "2021-07-31",
+      "startDate": "2019-04",
+      "endDate": "2021-07",
       "summary": "Implementation of machine learning in business psychology.",
       "highlights": ["Machine learning"]
     },
     {
       "name": "Precire Technologies",
       "position": "Intern",
-      "startDate": "2019-02-01",
-      "endDate": "2019-03-31",
+      "startDate": "2019-02",
+      "endDate": "2019-03",
       "summary": "Statistical analysis of speech patterns using machine learning.",
       "highlights": ["Machine learning"]
     },
     {
       "name": "University Hospital Muenster, Institute for Biomagnetism and Biosignalanalysis",
       "position": "Research Assistant",
-      "startDate": "2017-06-01",
-      "endDate": "2019-08-31",
+      "startDate": "2017-06",
+      "endDate": "2019-08",
       "summary": "Conducting MEG scans and assisting in a project on fear generalization.",
       "highlights": ["MEG"]
     }
@@ -87,7 +87,7 @@
       "url": "https://www.uni-muenster.de/de/",
       "area": "Cognitive Neuroscience",
       "studyType": "PhD",
-      "startDate": "2022-09-01",
+      "startDate": "2022-09",
       "endDate": "Present"
     },
     {
@@ -96,18 +96,8 @@
       "url": "https://www.uni-muenster.de/de/",
       "area": "Cognitive Neuroscience",
       "studyType": "M.Sc.",
-      "startDate": "2022-09-01",
-      "endDate": "2022",
-      "score": "1.2"
-    },
-    {
-      "institution": "University of Muenster, Muenster, Germany",
-      "location": "Muenster, Germany",
-      "url": "https://www.uni-muenster.de/de/",
-      "area": "Cognitive Neuroscience",
-      "studyType": "M.Sc.",
-      "startDate": "2019-09-01",
-      "endDate": "2022-08-31",
+      "startDate": "2019-09",
+      "endDate": "2022-08",
       "score": "1.2"
     },
     {
@@ -116,8 +106,8 @@
       "url": "https://www.columbia.edu/",
       "area": "Psychology",
       "studyType": "B.Sc.",
-      "startDate": "2018-08-04",
-      "endDate": "2018-12-14"
+      "startDate": "2018-08",
+      "endDate": "2018-12"
     },
     {
       "institution": "University of Muenster, Muenster, Germany",
@@ -125,8 +115,8 @@
       "url": "https://www.uni-muenster.de/de/",
       "area": "Psychology",
       "studyType": "B.Sc.",
-      "startDate": "2016-09-01",
-      "endDate": "2019-08-30",
+      "startDate": "2016-09",
+      "endDate": "2019-08",
       "score": "1.7"
     } 
   ],
