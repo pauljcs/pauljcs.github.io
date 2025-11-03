@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 6
 ---
+#### Wintersemester 25/26
+* M.Sc. Research Practice
+
 #### Summersemester 25
 * M.Sc. Cognitive Electrophysiology
 
