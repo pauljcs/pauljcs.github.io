@@ -2,15 +2,17 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href="https://www.uni-muenster.de/PsyIFP/AEBusch/en/Mitarbeiter/smith.html">University of Münster</a> ·
+  <a href="mailto:paul.smith@uni-muenster.de">paul.smith@uni-muenster.de</a>
 
 profile:
   align: right
   image: eye_eeg.png
   image_circular: false # crops the image to make it circular
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items

@@ -1,17 +1,12 @@
 {
   "basics": {
     "name": "Paul J.C. Smith",
-    "label": "",
-    "image": "",
     "email": "paul.smith@uni-muenster.de",
-    "url": "https://pauljcs.github.io",
-    "summary": "",
     "location": {
       "address": "Fliednerstrasse 21",
       "postalCode": "48149",
       "city": "Muenster",
-      "countryCode": "DE",
-      "region": ""
+      "countryCode": "DE"
     },
     "profiles": [
       {
@@ -29,7 +24,7 @@
       "startDate": "2022-10",
       "endDate": "Present",
       "summary": "Research on visual memory performance, EEG oscillations as well as eye-tracking and breathing. Teaching in the psychology B.Sc. and M.Sc. program focussed on decision making and EEG methods.",
-      "highlights": ["Alpha ocsillations, iconic memory, pupil dilation"]
+      "highlights": ["Alpha oscillations, iconic memory, pupil dilation"]
     },
     {
       "name": "University of Muenster, Department of Psychology, Cognitive Neuroscience",
@@ -52,7 +47,7 @@
       "position": "Intern",
       "startDate": "2019-09",
       "endDate": "2019-10",
-      "summary": "Assisting healthcare policy develoment and research on the modernization of the healthcare sector.",
+      "summary": "Assisting healthcare policy development and research on the modernization of the healthcare sector.",
       "highlights": ["Policy"]
     },
     {
@@ -160,13 +155,11 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
@@ -180,7 +173,7 @@
         "Biological rhythms",
         "Pupil dilation",
         "Signal processing",
-        "Mulitvariate Methods"
+        "Multivariate Methods"
       ]
     }
   ]
