@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-teaching-in-münster",
+          title: "teaching in münster",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -36,6 +36,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%70%61%75%6C.%73%6D%69%74%68@%75%6E%69-%6D%75%65%6E%73%74%65%72.%64%65", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/pauljcs", "_blank");
         },
       },{
         id: 'social-orcid',
