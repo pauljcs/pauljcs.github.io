@@ -28,3 +28,9 @@ latest_posts:
 hey! I'm Paul and I (*try to*) do science.
 
 I'm currently doing my PhD in cognitive neuroscience at the University of Münster in Germany under the supervision of [Niko Busch](https://www.uni-muenster.de/PsyIFP/AEBusch/Mitarbeiter/busch.shtml). My work focusses on the influence and interactions of different biological oscillations - especially brain, eye and breathing - with visual memory. I try to understand how differences in brain states impact subsequent processing. I also love to geek out and learn more about methods. When I'm not sitting at the desk or in the lab I teach classes about decision making and EEG methodology.
+
+My research interests include:
+- Neural oscillations and visual perception
+- Iconic memory and sensory persistence
+- Pupil-linked arousal and cognition
+- EEG signal processing and multivariate methods
